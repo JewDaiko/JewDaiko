@@ -11,7 +11,7 @@
 Here some personal and university projects (with contributors):
 
 *Università degli Studi di Salerno*
-- [Ethical Hacking & Penetration Testing](https://github.com/Endless077/)
+- [Ethical Hacking & Penetration Testing](https://github.com/JewDaiko/BLE_Privacy-Security_Analysis)
 - [Exploit Education (Fusion04)](https://github.com/Endless077/Exploit-Education-Fusion04)
 - [HP SBWT Compression](https://github.com/Endless077/HP_SBWT_Compression)
 - [WTFunko](https://github.com/Endless077/WTFunko)
